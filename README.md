@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SOC Design, Physical Design**
 
-- 🤝 I’m looking for help with **Implementation of Neural Network using Verilog on ZedBoard**
+- 🤝 I’m proficient in **Verilog,System Verilog,SVA**
 
 - 💬 Ask me about **ASIC Design, Design Verification, DFT, Physical Design**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hmkRKPj89kDI9xwNW0ALyGTUvDaEcZXx/view?usp=drivesdk](https://drive.google.com/file/d/1hmkRKPj89kDI9xwNW0ALyGTUvDaEcZXx/view?usp=drivesdk)
 
-- ⚡ Fun fact **I am Funny😜**
+- ⚡ Open to Open Source Contribution  in the domains **ASIC DESIGN , FPGA DESIGN , Design Verification**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
