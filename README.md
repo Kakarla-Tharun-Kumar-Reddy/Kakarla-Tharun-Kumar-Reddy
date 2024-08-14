@@ -1,3 +1,4 @@
+![logo](https://github.com/Kakarla-Tharun-Kumar-Reddy/Kakarla-Tharun-Kumar-Reddy/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kakarla-Tharun-Kumar-Reddy</h1>
 <h3 align="center">A passionate VLSI Engineer from India</h3>
 
